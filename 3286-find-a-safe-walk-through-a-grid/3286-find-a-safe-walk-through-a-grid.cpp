@@ -1,42 +1,51 @@
 class Solution {
 public:
     bool findSafeWalk(vector<vector<int>>& grid, int health) {
-        int m = grid.size();
-        int n = grid[0].size();
 
-        deque<pair<int,int>> dq;
-        vector<vector<int>> dist(m, vector<int>(n, INT_MAX));
+        int n = grid.size();
+        int m = grid[0].size();
 
-        dist[0][0] = grid[0][0];
-        dq.push_front({0,0});
+        health -= grid[0][0];
 
-        int drow[] = {-1,0,1,0};
-        int dcol[] = {0,1,0,-1};
+        if(health<=0) return false;
 
-        while(!dq.empty()) {
-            auto [r,c] = dq.front();
-            dq.pop_front();
+        
+        vector<vector<int>> best(n,vector<int>(m,INT_MIN));  
+        queue<vector<int>> q;
+        q.push({0,0,health});
+        best[0][0] = health;
 
-            for(int k=0;k<4;k++) {
-                int nr = r + drow[k];
-                int nc = c + dcol[k];
+        int drow[] ={-1,0,1,0};
+        int dcol[] ={0,1,0,-1};
 
-                if(nr<0 || nr>=m || nc<0 || nc>=n)
-                    continue;
+        while(!q.empty()){
+            auto node = q.front();
+            q.pop();
+            int r = node[0];
+            int c = node[1];
+            int h = node[2];
 
-                int wt = grid[nr][nc];
+            if( r == n-1 && c == m-1 ) return true;
 
-                if(dist[r][c] + wt < dist[nr][nc]) {
-                    dist[nr][nc] = dist[r][c] + wt;
+            for(int k =0;k<4;k++){
+                int nr = r+drow[k];
+                int nc = c+dcol[k];
 
-                    if(wt == 0)
-                        dq.push_front({nr,nc});
-                    else
-                        dq.push_back({nr,nc});
+                if(nr < 0 || nr >= n || nc < 0 || nc >= m) continue;
+
+                int newh = h-grid[nr][nc];
+                if(newh<=0) continue;
+
+                if(newh>best[nr][nc]){
+                    q.push({nr,nc,newh});
+                    best[nr][nc] = newh;
                 }
-            }
-        }
 
-        return dist[m-1][n-1] < health;
+
+
+            }
+
+        } return false;
+
     }
 };
