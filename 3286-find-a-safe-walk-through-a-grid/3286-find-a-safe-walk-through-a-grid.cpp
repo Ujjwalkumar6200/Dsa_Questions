@@ -4,54 +4,39 @@ public:
         int m = grid.size();
         int n = grid[0].size();
 
-        // Lose health if starting cell is unsafe
-        health -= grid[0][0];
+        deque<pair<int,int>> dq;
+        vector<vector<int>> dist(m, vector<int>(n, INT_MAX));
 
-        if (health <= 0) return false;
+        dist[0][0] = grid[0][0];
+        dq.push_front({0,0});
 
-        vector<vector<int>> best(m, vector<int>(n, -1));
-        queue<vector<int>> q;
+        int drow[] = {-1,0,1,0};
+        int dcol[] = {0,1,0,-1};
 
-        // {row, col, remainingHealth}
-        q.push({0, 0, health});
-        best[0][0] = health;
+        while(!dq.empty()) {
+            auto [r,c] = dq.front();
+            dq.pop_front();
 
-        int drow[] = {-1, 0, 1, 0};
-        int dcol[] = {0, 1, 0, -1};
+            for(int k=0;k<4;k++) {
+                int nr = r + drow[k];
+                int nc = c + dcol[k];
 
-        while (!q.empty()) {
-            auto curr = q.front();
-            q.pop();
+                if(nr<0 || nr>=m || nc<0 || nc>=n)
+                    continue;
 
-            int row = curr[0];
-            int col = curr[1];
-            int currHealth = curr[2];
+                int wt = grid[nr][nc];
 
-            // Reached destination
-            if (row == m - 1 && col == n - 1)
-                return true;
+                if(dist[r][c] + wt < dist[nr][nc]) {
+                    dist[nr][nc] = dist[r][c] + wt;
 
-            for (int k = 0; k < 4; k++) {
-                int nr = row + drow[k];
-                int nc = col + dcol[k];
-
-                if (nr >= 0 && nr < m && nc >= 0 && nc < n) {
-
-                    int newHealth = currHealth - grid[nr][nc];
-
-                    // Health must remain positive
-                    if (newHealth <= 0)
-                        continue;
-
-                    // Visit only if we arrive with more health
-                    if (newHealth > best[nr][nc]) {
-                        best[nr][nc] = newHealth;
-                        q.push({nr, nc, newHealth});
-                    }
+                    if(wt == 0)
+                        dq.push_front({nr,nc});
+                    else
+                        dq.push_back({nr,nc});
                 }
             }
         }
 
-        return false;
+        return dist[m-1][n-1] < health;
     }
 };
