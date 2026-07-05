@@ -4,16 +4,15 @@ public:
 
         if (n == 1)
             return 1;
-
-        vector<int> dp(n + 1, -1);
-
-        dp[1] = 1;
-        dp[2] = 2;
-
+        int prev2 = 1;
+        int prev = 2;
+        int curri=2;
         for (int i = 3; i <= n; i++) {
-            dp[i] = dp[i - 1] + dp[i - 2];
+             curri = prev+prev2;
+             prev2=prev;
+             prev = curri;
         }
 
-        return dp[n];
+        return curri;
     }
 };
