@@ -11,7 +11,7 @@ public:
         int not_Pick = returni(ind-1,amount,coins,dp);
         int pick = INT_MAX;
         if(coins[ind]<=amount){
-            pick = 1+ min(returni(ind-1,amount-coins[ind],coins,dp),returni(ind,amount-coins[ind],coins,dp));
+            pick = 1+ returni(ind,amount-coins[ind],coins,dp);
         }
         return dp[ind][amount]=min(pick,not_Pick);
     }
