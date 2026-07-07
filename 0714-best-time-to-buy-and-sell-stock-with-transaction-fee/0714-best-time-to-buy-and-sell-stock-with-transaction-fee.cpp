@@ -9,12 +9,12 @@ public:
                 int profit =0;
 
                 if(buy==1){
-                    profit = max(-prices[index] + dp[index+1][0],
+                    profit = max(-prices[index] -fee + dp[index+1][0],
                     dp[index+1][1]);
                 }
 
                 else {
-                     profit = max(prices[index]-fee+ dp[index+1][1] 
+                     profit = max(prices[index]+ dp[index+1][1] 
                      ,dp[index+1][0]);
                 }
                 
