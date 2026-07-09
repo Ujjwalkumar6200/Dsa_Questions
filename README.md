@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0790-domino-and-tromino-tiling](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0790-domino-and-tromino-tiling) |
 | [1092-shortest-common-supersequence](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1092-shortest-common-supersequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1301-number-of-paths-with-max-score) |
