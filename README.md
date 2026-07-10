@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0322-coin-change) |
+| [0472-concatenated-words](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0472-concatenated-words) |
 | [0518-coin-change-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0322-coin-change) |
+| [0472-concatenated-words](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0472-concatenated-words) |
 | [0518-coin-change-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0790-domino-and-tromino-tiling](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0790-domino-and-tromino-tiling) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0472-concatenated-words](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0472-concatenated-words) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Math
 |  |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0472-concatenated-words](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0472-concatenated-words) |
 | [1288-remove-covered-intervals](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1288-remove-covered-intervals) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## String
@@ -130,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0140-word-break-ii) |
+| [0472-concatenated-words](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0472-concatenated-words) |
 | [1092-shortest-common-supersequence](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1092-shortest-common-supersequence) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Greedy
@@ -152,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0140-word-break-ii) |
+| [0472-concatenated-words](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0472-concatenated-words) |
 ## Backtracking
 |  |
 | ------- |
