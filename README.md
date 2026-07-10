@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0198-house-robber) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0312-burst-balloons) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0198-house-robber) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0312-burst-balloons) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0140-word-break-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0140-word-break-ii) |
 | [1092-shortest-common-supersequence](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1092-shortest-common-supersequence) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Greedy
@@ -141,9 +145,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0140-word-break-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Trie
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0140-word-break-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
