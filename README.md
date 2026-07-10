@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
