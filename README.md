@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2685-count-the-number-of-complete-components) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0785-is-graph-bipartite) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0472-concatenated-words) |
 | [0547-number-of-provinces](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2685-count-the-number-of-complete-components) |
