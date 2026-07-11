@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0200-number-of-islands) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0322-coin-change) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0733-flood-fill) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1020-number-of-enclaves) |
@@ -126,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0200-number-of-islands) |
 | [0472-concatenated-words](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0472-concatenated-words) |
 | [0547-number-of-provinces](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0733-flood-fill) |
