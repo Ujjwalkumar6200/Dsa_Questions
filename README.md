@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1288-remove-covered-intervals](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1301-number-of-paths-with-max-score) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
