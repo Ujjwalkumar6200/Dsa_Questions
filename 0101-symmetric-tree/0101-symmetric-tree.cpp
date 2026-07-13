@@ -11,16 +11,24 @@
  */
 class Solution {
 public:
-    bool isHelper(TreeNode* left,TreeNode* right){
-        if(left==NULL || right == NULL) return left==right;
-
-        if(left->val!= right->val) return false;
-        return isHelper(left->right,right->left)  && isHelper(left->left,right->right);
-
-    }
-
-
     bool isSymmetric(TreeNode* root) {
-        return isHelper(root->left,root->right);
+
+            if(root==NULL) return true;
+           queue<pair<TreeNode*,TreeNode*>> q;
+           q.push({root->left,root->right});
+
+           while(!q.empty()){
+            auto it = q.front(); q.pop();
+            TreeNode* left = it.first;
+            TreeNode* right = it.second;
+
+            if(left==NULL && right == NULL) continue;
+            if(left==NULL || right==NULL) return false;
+            if(left->val!=right->val) return false;
+            q.push({left->right,right->left});
+            q.push({left->left,right->right}); 
+
+           }
+            return true;
     }
 };
