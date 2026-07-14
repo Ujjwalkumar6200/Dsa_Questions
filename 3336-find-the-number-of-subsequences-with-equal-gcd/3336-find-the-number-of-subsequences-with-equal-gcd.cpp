@@ -1,40 +1,48 @@
 class Solution {
 public:
-
-    int MOD  = 1e9 + 7; 
-
-    int helper(int idx,int gcd1, int gcd2, vector<int>& nums, vector<vector<vector<int>>>& dp){
-        if(idx==nums.size()){
-            if(gcd1==gcd2 && gcd1>0){
-                return  1;
-            }
-            return 0;
-        }
-
-        long long ans =0;
-
-        if(dp[idx][gcd1][gcd2]!=-1) return dp[idx][gcd1][gcd2]; 
-        int not_pick = helper(idx+1,gcd1,gcd2,nums,dp) % MOD;
-        
-        int new_gcd1 = (gcd1==0) ? nums[idx] : gcd(gcd1,nums[idx]);
-        int pick1 =   helper(idx+1,new_gcd1,gcd2,nums,dp) % MOD;
-
-        int new_gcd2 = (gcd2==0) ? nums[idx] : gcd(gcd2,nums[idx]);
-        int pick2 =helper(idx+1,gcd1,new_gcd2,nums,dp) % MOD;
-        
-        ans += not_pick;
-        ans += pick1;
-        ans += pick2;
-
-        return dp[idx][gcd1][gcd2] = ans % MOD;
-
-
-    }
+    static const int MOD = 1e9 + 7;
 
     int subsequencePairCount(vector<int>& nums) {
-        int n = nums.size();
-       vector<vector<vector<int>>> dp(n + 1,vector<vector<int>>(201, vector<int>(201, -1)));
 
-        return helper(0,0,0,nums,dp);
+        const int MAX = 200;
+
+        vector<vector<int>> dp(MAX + 1, vector<int>(MAX + 1, 0));
+        dp[0][0] = 1;
+
+        for (int x : nums) {
+
+            vector<vector<int>> ndp = dp;
+
+            for (int g1 = 0; g1 <= MAX; g1++) {
+
+                for (int g2 = 0; g2 <= MAX; g2++) {
+
+                    if (dp[g1][g2] == 0)
+                        continue;
+
+                    // Put x in first subsequence
+                    int ng1 = (g1 == 0) ? x : gcd(g1, x);
+
+                    ndp[ng1][g2] =
+                        (ndp[ng1][g2] + dp[g1][g2]) % MOD;
+
+                    // Put x in second subsequence
+                    int ng2 = (g2 == 0) ? x : gcd(g2, x);
+
+                    ndp[g1][ng2] =
+                        (ndp[g1][ng2] + dp[g1][g2]) % MOD;
+                }
+            }
+
+            dp = move(ndp);
+        }
+
+        long long ans = 0;
+
+        for (int g = 1; g <= MAX; g++) {
+            ans = (ans + dp[g][g]) % MOD;
+        }
+
+        return ans;
     }
 };
