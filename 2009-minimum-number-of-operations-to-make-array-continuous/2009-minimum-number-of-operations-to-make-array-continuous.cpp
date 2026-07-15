@@ -2,21 +2,22 @@ class Solution {
 public:
     int minOperations(vector<int>& nums) {
         int n = nums.size();
-        unordered_set<int> s(nums.begin(), nums.end()); // nums become unique;
-        vector<int> arr(s.begin(), s.end());
-        sort(arr.begin(), arr.end());// it comes in range
+        unordered_set<int>s(nums.begin(),nums.end()); // remove duplicates;
+        vector<int> v(s.begin(),s.end());
+        sort(v.begin(),v.end());      // sort to have everything in range;
+        int m = v.size();   //  it gives size of array without duplicate;
 
-        int maxCount = 0;
-        int j = 0;
-        int news = arr.size();
-        // abb duplicate hatane k baad range mai chahiye na
-        for (int i = 0; i < arr.size(); i++) {
-            while (j < news && arr[j] < arr[i] + n) {
+        int j =0;
+        int maxi = INT_MIN;
+        int cnt =0;
+        for(int i =0;i<m;i++){
+            while(j<m && v[j] < v[i]+n){
                 j++;
-            }
-            maxCount = max(maxCount, j - i);
-        }
+                cnt++;
+            } maxi = max(maxi,cnt);
+            cnt--;
+        } return n-maxi;
 
-        return n - maxCount;
+
     }
 };
