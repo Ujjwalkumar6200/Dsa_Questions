@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1631-path-with-minimum-effort) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1331-rank-transform-of-an-array) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Trie
 |  |
@@ -369,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+## Counting
+|  |
+| ------- |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 <!---LeetCode Topics End-->
