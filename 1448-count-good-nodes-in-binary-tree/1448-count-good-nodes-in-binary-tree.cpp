@@ -11,24 +11,24 @@
  */
 class Solution {
 public:
+
+    void dfs(TreeNode* root, int maxi, int& ans){
+        if(root==nullptr) return ;
+
+        if(root->val >=maxi){
+            ans++;
+            maxi = root->val;
+        }
+
+        dfs(root->left,maxi,ans);
+        dfs(root->right,maxi,ans);
+    }
+
+
     int goodNodes(TreeNode* root) {
-        queue<pair<TreeNode*,int>> q;
-        q.push({root,root->val});
+        int maxi = INT_MIN;
         int ans =0;
-
-        while(!q.empty()){
-            auto it = q.front();
-            q.pop();
-            TreeNode* node = it.first;
-            int maxSofar = it.second;
-
-            if(node->val>=maxSofar){
-                maxSofar = node->val;
-                ans++;
-            }
-            if(node->left) q.push({node->left,maxSofar});
-            if(node->right) q.push({node->right,maxSofar});
-
-        } return ans;
+        dfs(root,maxi,ans);
+        return ans;
     }
 };
