@@ -34,14 +34,14 @@ public:
 
 
     int amountOfTime(TreeNode* root, int start) {
-        unordered_map<TreeNode*,bool> visited;
+        unordered_set<TreeNode*> visited;
         unordered_map<TreeNode*,TreeNode*> parent;
         TreeNode* startNode = mapParent(root, parent, start);
 
         queue<TreeNode*> q;
         int maxT=-1;
         q.push(startNode);
-        visited[startNode]=true;
+        visited.insert(startNode);
 
         while(!q.empty()){
             int size = q.size();
@@ -49,16 +49,16 @@ public:
             for(int i =0;i<size;i++){
                  TreeNode* node = q.front();
                  q.pop();
-                 if(node->left && !visited[node->left]) {
-                    visited[node->left] = true;
+                 if(node->left && !visited.count(node->left)) {
+                    visited.insert(node->left);
                     q.push(node->left);
                     }
-                 if(node->right && !visited[node->right]){
-                    visited[node->right]=true;
+                 if(node->right && !visited.count(node->right)){
+                    visited.insert(node->right);
                   q.push(node->right);
                   }
-                 if(parent.count(node) && !visited[parent[node]]) {
-                    visited[parent[node]]= true;
+                 if(parent.count(node) && !visited.count(parent[node])) {
+                    visited.insert(parent[node]);
                     q.push(parent[node]);
                     }
             }
