@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1631-path-with-minimum-effort) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1631-path-with-minimum-effort) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2685-count-the-number-of-complete-components) |
 ## Math
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1331-rank-transform-of-an-array) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Trie
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -362,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Enumeration
 |  |
 | ------- |
