@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0031-next-permutation](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0064-minimum-path-sum) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0075-sort-colors) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
