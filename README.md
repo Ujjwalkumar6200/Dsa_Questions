@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1631-path-with-minimum-effort) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0075-sort-colors) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Randomized
 |  |
