@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0140-word-break-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0785-is-graph-bipartite) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0169-majority-element) |
