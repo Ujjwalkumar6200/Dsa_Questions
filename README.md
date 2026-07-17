@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0472-concatenated-words](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0472-concatenated-words) |
 | [0518-coin-change-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0733-flood-fill) |
 | [0846-hand-of-straights](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0846-hand-of-straights) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0560-subarray-sum-equals-k](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0846-hand-of-straights](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1331-rank-transform-of-an-array) |
