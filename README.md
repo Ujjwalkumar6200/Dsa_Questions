@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0063-unique-paths-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0136-single-number) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0075-sort-colors) |
 | [0472-concatenated-words](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0472-concatenated-words) |
 | [0846-hand-of-straights](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0846-hand-of-straights) |
 | [1288-remove-covered-intervals](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1288-remove-covered-intervals) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0075-sort-colors) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
