@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0198-house-robber) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0222-count-complete-tree-nodes) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
