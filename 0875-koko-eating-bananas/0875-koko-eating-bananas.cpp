@@ -1,26 +1,26 @@
 class Solution {
 public:
-    long long calculateh(vector<int>& piles, int hourly){
-        long long totalH = 0;
-        int n = piles.size();
-        for(int i =0;i<n;i++){
-            totalH += ceil( (double)piles[i] / (double)hourly);
-        } return totalH;
-    }
 
+    bool ispossible(const vector<int>& piles,int v, int h){
+        long long need = 0;
+        for(int i=0;i<piles.size();i++){
+                need += ceil((double)piles[i]/(double)v);
+        }
+        if(need<=h) return true;
+        return false;
+    }
 
     int minEatingSpeed(vector<int>& piles, int h) {
-        int low = 1 , high = *max_element(piles.begin(),piles.end());
-        int ans = high;
+        int low =1;
+        int high = *max_element(piles.begin(), piles.end());
+        int ans =0;
         while(low<=high){
-            int mid = low + (high-low)/2;
-            long long totalH = calculateh(piles,mid);
-            if(totalH <= h){
+            int mid = (low+high) >> 1;
+            if(ispossible(piles,mid,h)){
                 ans = mid;
                 high = mid-1;
-            }else{
-                low = mid+1;
             }
+            else low = mid+1;
         } return ans;
-    }
+    } 
 };
