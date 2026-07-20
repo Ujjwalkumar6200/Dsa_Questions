@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0140-word-break-ii) |
 | [0273-integer-to-english-words](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0273-integer-to-english-words) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0139-word-break) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0904-fruit-into-baskets) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 ## Counting
