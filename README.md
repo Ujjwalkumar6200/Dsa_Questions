@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0140-word-break-ii) |
 | [0273-integer-to-english-words](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0273-integer-to-english-words) |
+| [0394-decode-string](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0394-decode-string) |
 | [0472-concatenated-words](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0472-concatenated-words) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1092-shortest-common-supersequence) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0273-integer-to-english-words](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0273-integer-to-english-words) |
+| [0394-decode-string](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0394-decode-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0173-binary-search-tree-iterator) |
+| [0394-decode-string](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0394-decode-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Tree
 |  |
