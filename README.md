@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0547-number-of-provinces) |
+| [0617-merge-two-binary-trees](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0785-is-graph-bipartite) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0472-concatenated-words) |
 | [0543-diameter-of-binary-tree](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0547-number-of-provinces) |
+| [0617-merge-two-binary-trees](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0785-is-graph-bipartite) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
