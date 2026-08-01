@@ -1,27 +1,30 @@
 class Solution {
 public:
-
-    int solve(vector<int>& nums, int i, int j, vector<vector<int>>& dp) {
-
-        if (i == j)
-            return nums[i];
-
-        if (dp[i][j] != -1)
-            return dp[i][j];
-
-        int takeLeft = nums[i] - solve(nums, i + 1, j, dp);
-
-        int takeRight = nums[j] - solve(nums, i, j - 1, dp);
-
-        return dp[i][j] = max(takeLeft, takeRight);
-    }
-
     bool predictTheWinner(vector<int>& nums) {
 
         int n = nums.size();
 
-        vector<vector<int>> dp(n, vector<int>(n, -1));
+        vector<vector<int>> dp(n, vector<int>(n, 0));
 
-        return solve(nums, 0, n - 1, dp) >= 0;
+        // Base case
+        for (int i = 0; i < n; i++)
+            dp[i][i] = nums[i];
+
+        // Length of subarray
+        for (int len = 2; len <= n; len++) {
+
+            for (int i = 0; i + len - 1 < n; i++) {
+
+                int j = i + len - 1;
+
+                int takeLeft = nums[i] - dp[i + 1][j];
+
+                int takeRight = nums[j] - dp[i][j - 1];
+
+                dp[i][j] = max(takeLeft, takeRight);
+            }
+        }
+
+        return dp[0][n - 1] >= 0;
     }
 };
