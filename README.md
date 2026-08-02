@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0733-flood-fill) |
 | [0846-hand-of-straights](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0790-domino-and-tromino-tiling](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0790-domino-and-tromino-tiling) |
+| [0877-stone-game](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0877-stone-game) |
 | [1092-shortest-common-supersequence](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1092-shortest-common-supersequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1301-number-of-paths-with-max-score) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0486-predict-the-winner](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -544,4 +547,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
