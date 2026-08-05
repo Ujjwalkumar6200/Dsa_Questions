@@ -1,54 +1,45 @@
-constexpr int MAXN = 100005;
-
 class Solution {
 public:
     vector<int> remainingMethods(int n, int k, vector<vector<int>>& invocations) {
-        vector<vector<int>> edges(n);
-        vector<int> inDegree(n, 0);
-
-        bitset<MAXN> sus;
-
-        for (const auto& inv : invocations) {
-            edges[inv[0]].push_back(inv[1]);
-            inDegree[inv[1]]++;
+        vector<vector<int>> adj(n);
+        for(auto &ele: invocations){
+            adj[ele[0]].push_back(ele[1]);
         }
 
+        vector<bool> visited(n,false);
         queue<int> q;
         q.push(k);
-
-        sus.set(k);
-
-        while (!q.empty()) {
-            int u = q.front();
-            q.pop();
-            for (int v : edges[u]) {
-                inDegree[v]--;
-
-                if (!sus.test(v)) {
+        while(!q.empty()){
+            int u=q.front();q.pop();
+            visited[u]=true;
+            for(auto &v: adj[u]){
+                if(!visited[v]){
                     q.push(v);
-                    sus.set(v);
                 }
             }
         }
-
-        bool canRemoveAll = true;
-        vector<int> rem;
-
-        for (int i = 0; i < n; i++) {
-            if (sus.test(i) && inDegree[i] > 0) {
-                canRemoveAll = false;
-                break;
-            } else if (!sus.test(i)) {
-                rem.push_back(i);
+        bool flag=false;
+        for(int i=0;i<n;i++){
+            if(!visited[i]){
+                for(int &v: adj[i]){
+                    if(visited[v]==true){
+                        flag=true; 
+                        break;
+                    } 
+                }
             }
         }
-
-        if (!canRemoveAll) {
-            vector<int> allNodes(n);
-            iota(allNodes.begin(), allNodes.end(), 0);
-            return allNodes;
+        vector<int> ans;
+        if(!flag){ // if no node calls any node in visited component then we will remove all node visited during BFS call 
+            for(int i=0;i<n;i++){
+                if(!visited[i]) ans.push_back(i);
+            }
         }
-
-        return rem;
+        else{
+            for(int i=0;i<n;i++){
+                ans.push_back(i);
+            }
+        }
+        return ans;
     }
 };
