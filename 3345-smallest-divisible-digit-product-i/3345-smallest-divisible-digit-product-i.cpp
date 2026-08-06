@@ -1,19 +1,23 @@
 class Solution {
 public:
+    int digitProduct(int x) {
+        int product = 1;
+
+        while (x > 0) {
+            product *= (x % 10);
+            x /= 10;
+        }
+
+        return product;
+    }
+
     int smallestNumber(int n, int t) {
+        int i = n;
+
         while (true) {
-            int product = 1;
-            int x = n;
-
-            while (x > 0) {
-                product *= (x % 10);
-                x /= 10;
-            }
-
-            if (product % t == 0)
-                return n;
-
-            n++;
+            if (digitProduct(i) % t == 0)
+                return i;
+            i++;
         }
     }
 };
