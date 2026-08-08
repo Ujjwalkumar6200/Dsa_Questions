@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1406-stone-game-iii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2750-ways-to-split-array-into-good-subarrays) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3620-network-recovery-pathways) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1092-shortest-common-supersequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Prefix Sum
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0075-sort-colors) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
