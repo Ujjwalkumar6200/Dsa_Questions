@@ -15,5 +15,5 @@ public:
                 if(mpp[curr+i]<1) mpp.erase(curr+i);
             }
         } return true;
-    }
-};
+    } // move
+}; 
