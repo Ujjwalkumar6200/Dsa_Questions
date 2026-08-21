@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1631-path-with-minimum-effort) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0062-unique-paths) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sorting
@@ -441,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0222-count-complete-tree-nodes) |
 | [1386-cinema-seat-allocation](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
 |  |
@@ -521,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
