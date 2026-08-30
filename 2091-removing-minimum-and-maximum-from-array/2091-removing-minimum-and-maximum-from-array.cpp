@@ -3,16 +3,23 @@ public:
     int minimumDeletions(vector<int>& nums) {
         int n = nums.size();
 
-        int mini = min_element(nums.begin(), nums.end()) - nums.begin();
-        int maxi = max_element(nums.begin(), nums.end()) - nums.begin();
+        int minIdx = 0, maxIdx = 0;
 
-        int left = min(mini, maxi);
-        int right = max(mini, maxi);
+        for (int i = 1; i < n; i++) {
+            if (nums[i] < nums[minIdx])
+                minIdx = i;
 
-        int front = right + 1;
-        int back = n - left;
-        int both = left + 1 + n - right;
+            if (nums[i] > nums[maxIdx])
+                maxIdx = i;
+        }
 
-        return min({front, back, both});
+        int left = min(minIdx, maxIdx);
+        int right = max(minIdx, maxIdx);
+
+        return min({
+            right + 1,           // both from front
+            n - left,            // both from back
+            left + 1 + n - right // one from each side
+        });
     }
 };
