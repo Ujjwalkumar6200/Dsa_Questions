@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1406-stone-game-iii) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1631-path-with-minimum-effort) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0904-fruit-into-baskets) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Counting
@@ -664,5 +667,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Queue
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
