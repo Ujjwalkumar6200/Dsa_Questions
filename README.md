@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0790-domino-and-tromino-tiling](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0790-domino-and-tromino-tiling) |
 | [0877-stone-game](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0940-distinct-subsequences-ii) |
 | [1092-shortest-common-supersequence](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1092-shortest-common-supersequence) |
 | [1140-stone-game-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1140-stone-game-ii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0394-decode-string) |
 | [0472-concatenated-words](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0472-concatenated-words) |
+| [0940-distinct-subsequences-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1092-shortest-common-supersequence) |
 | [1927-sum-game](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1927-sum-game) |
