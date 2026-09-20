@@ -11,7 +11,7 @@
 <strong>Explanation:</strong> merged array = [1,2,3] and median is 2.
 </pre>
 
-<p><strong class="example">Example 2:</strong></p>
+<p><strong class="example-1">Example 2:</strong></p>
 
 <pre>
 <strong>Input:</strong> nums1 = [1,2], nums2 = [3,4]
