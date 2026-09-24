@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1288-remove-covered-intervals](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1301-number-of-paths-with-max-score) |
+| [1330-reverse-subarray-to-maximize-array-value](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1330-reverse-subarray-to-maximize-array-value) |
 | [1331-rank-transform-of-an-array](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1406-stone-game-iii) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1140-stone-game-ii) |
+| [1330-reverse-subarray-to-maximize-array-value](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1330-reverse-subarray-to-maximize-array-value) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1510-stone-game-iv) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0846-hand-of-straights](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0846-hand-of-straights) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1330-reverse-subarray-to-maximize-array-value](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1330-reverse-subarray-to-maximize-array-value) |
 | [1386-cinema-seat-allocation](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1927-sum-game) |
