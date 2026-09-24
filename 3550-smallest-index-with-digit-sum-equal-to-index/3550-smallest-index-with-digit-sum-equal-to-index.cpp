@@ -1,20 +1,19 @@
 class Solution {
 public:
-    int isdigit(int n){
-        int sum = 0;
-
-      while (n > 0) {
-        sum += n % 10;
-        n /= 10;
-    }
-
-    return sum;
-    }
-
     int smallestIndex(vector<int>& nums) {
-        for(int i =0;i<nums.size();i++){
-            if(isdigit(nums[i]) == i) return i;
+        for (int i = 0; i < nums.size(); i++) {
+            int x = nums[i];
+            int sum = 0;
+
+            while (x > 0) {
+                sum += x % 10;
+                x /= 10;
+            }
+
+            if (sum == i)
+                return i;
         }
+
         return -1;
     }
 };
