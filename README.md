@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1096-brace-expansion-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1096-brace-expansion-ii) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1631-path-with-minimum-effort) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0472-concatenated-words) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0846-hand-of-straights](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0846-hand-of-straights) |
+| [1096-brace-expansion-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1092-shortest-common-supersequence) |
+| [1096-brace-expansion-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0904-fruit-into-baskets) |
+| [1096-brace-expansion-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -497,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0140-word-break-ii) |
+| [1096-brace-expansion-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Linked List
 |  |
@@ -552,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0394-decode-string](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0394-decode-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1096-brace-expansion-ii) |
 ## Tree
 |  |
 | ------- |
