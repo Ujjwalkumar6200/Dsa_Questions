@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
+| [3026-maximum-good-subarray-sum](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3026-maximum-good-subarray-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1872-stone-game-viii) |
+| [3026-maximum-good-subarray-sum](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3026-maximum-good-subarray-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3903-smallest-stable-index-i) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3026-maximum-good-subarray-sum](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3026-maximum-good-subarray-sum) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
