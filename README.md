@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0435-non-overlapping-intervals](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0518-coin-change-ii) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0322-coin-change) |
+| [0435-non-overlapping-intervals](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0518-coin-change-ii) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0169-majority-element) |
+| [0435-non-overlapping-intervals](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0472-concatenated-words) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0846-hand-of-straights](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0846-hand-of-straights) |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0846-hand-of-straights](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0846-hand-of-straights) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
