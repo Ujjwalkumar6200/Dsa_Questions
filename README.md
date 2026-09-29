@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1631-path-with-minimum-effort](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1631-path-with-minimum-effort) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1872-stone-game-viii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -768,4 +771,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
