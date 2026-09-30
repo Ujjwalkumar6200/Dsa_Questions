@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0053-maximum-subarray) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0039-combination-sum) |
 | [0140-word-break-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0140-word-break-ii) |
 | [1096-brace-expansion-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
