@@ -1,32 +1,25 @@
 class Solution {
 public:
-
-    vector<int> solve(TreeNode* root) {
+    pair<int, int> solve(TreeNode* root) {
         if (root == NULL) {
             return {0, 0};
         }
 
-        vector<int> left = solve(root->left);
-        vector<int> right = solve(root->right);
+        pair<int, int> left = solve(root->left);
+        pair<int, int> right = solve(root->right);
 
-        vector<int> dp(2);
+        int not_pick = max(left.first, left.second)
+                     + max(right.first, right.second);
 
-        // Current node ko pick nahi kiya
-        dp[0] = max(left[0], left[1])
-              + max(right[0], right[1]);
+        int pick = root->val
+                 + left.first
+                 + right.first;
 
-        // Current node ko pick kiya
-        // To direct children ko pick nahi kar sakte
-        dp[1] = root->val
-              + left[0]
-              + right[0];
-
-        return dp;
+        return {not_pick, pick};
     }
 
     int rob(TreeNode* root) {
-        vector<int> result = solve(root);
-
-        return max(result[0], result[1]);
+        pair<int, int> result = solve(root);
+        return max(result.first, result.second);
     }
 };
