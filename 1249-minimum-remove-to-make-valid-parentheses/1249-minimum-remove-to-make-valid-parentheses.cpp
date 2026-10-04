@@ -2,40 +2,38 @@ class Solution {
 public:
     string minRemoveToMakeValid(string s) {
 
-        int n = s.length();
-        string news = "";
+        stack<int> st;
 
-        int cnt = 0;
-
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < s.length(); i++) {
 
             if (s[i] == '(') {
-                cnt++;
-                news += s[i];
+                st.push(i);
             }
-
             else if (s[i] == ')') {
 
-                if (cnt > 0) {
-                    cnt--;
-                    news += s[i];
+                if (!st.empty()) {
+                    st.pop();
+                }
+                else {
+                    s[i] = '#';
                 }
             }
+        }
 
-            else {
-                news += s[i];
+        // Unmatched '('
+        while (!st.empty()) {
+            s[st.top()] = '#';
+            st.pop();
+        }
+
+        string ans = "";
+
+        for (int i = 0; i < s.length(); i++) {
+            if (s[i] != '#') {
+                ans += s[i];
             }
         }
 
-        // Remove extra '(' from right to left
-        for (int i = news.length() - 1; i >= 0 && cnt > 0; i--) {
-
-            if (news[i] == '(') {
-                news.erase(i, 1);
-                cnt--;
-            }
-        }
-
-        return news;
+        return ans;
     }
 };
