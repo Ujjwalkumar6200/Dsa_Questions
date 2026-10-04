@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2326-spiral-matrix-iv](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2326-spiral-matrix-iv) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1631-path-with-minimum-effort](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1631-path-with-minimum-effort) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2326-spiral-matrix-iv](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2326-spiral-matrix-iv) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2326-spiral-matrix-iv](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2326-spiral-matrix-iv) |
 ## Recursion
 |  |
 | ------- |
@@ -731,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2326-spiral-matrix-iv](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2326-spiral-matrix-iv) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3703-remove-k-balanced-substrings](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3703-remove-k-balanced-substrings) |
