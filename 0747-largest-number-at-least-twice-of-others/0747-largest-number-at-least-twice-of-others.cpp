@@ -1,16 +1,20 @@
 class Solution {
 public:
     int dominantIndex(vector<int>& nums) {
-        int maxi = *max_element(nums.begin(),nums.end()); //6
+
+        int maxi = *max_element(nums.begin(), nums.end());
         int index = -1;
-        int i =0;
-        for(int num : nums){
-        if(num == maxi){
-         index = i;
-         continue;
+
+        for (int i = 0; i < nums.size(); i++) {
+
+            if (nums[i] == maxi) {
+                index = i;
+            }
+            else if (2 * nums[i] > maxi) {
+                return -1;
+            }
         }
-        if((2*num) > maxi ) return -1;
-        i++;
-        } return  index;
+
+        return index;
     }
 };
