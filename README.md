@@ -454,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3703-remove-k-balanced-substrings](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3703-remove-k-balanced-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -610,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3703-remove-k-balanced-substrings](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3703-remove-k-balanced-substrings) |
 ## Tree
 |  |
 | ------- |
@@ -731,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3703-remove-k-balanced-substrings](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3703-remove-k-balanced-substrings) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Randomized
 |  |
