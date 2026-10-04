@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0733-flood-fill) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0835-image-overlap](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0835-image-overlap) |
 | [0846-hand-of-straights](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0875-koko-eating-bananas) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0472-concatenated-words) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0846-hand-of-straights](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0846-hand-of-straights) |
 | [1096-brace-expansion-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1288-remove-covered-intervals) |
