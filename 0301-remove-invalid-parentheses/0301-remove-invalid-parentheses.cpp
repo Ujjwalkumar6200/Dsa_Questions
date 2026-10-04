@@ -1,51 +1,111 @@
 class Solution {
 public:
-    unordered_set<string> st;
-    int longest_string = -1;
 
-    void dfs(string &s, int index, string &current, int lcount, int rcount) {
-        if (index == s.length()) {
-            if (lcount == rcount) {
-                int len = current.length();
-                if (len > longest_string) {
-                    st.clear();
-                    longest_string = current.length();
-                    st.insert(current);
-                }
-                else if(len == longest_string) {
-                    st.insert(current);
-                }
+    void dfs(string &s, int index,
+             int leftRemove, int rightRemove,
+             int leftCount, int rightCount,
+             string &current, vector<string> &ans) {
+
+        if(index == s.length()) {
+
+            if(leftRemove == 0 && rightRemove == 0) {
+                ans.push_back(current);
             }
+
+            return;
         }
-        else {
-            char curr_char = s[index];
-            if (curr_char == '(') {
-                current += curr_char;
-                dfs(s, index+1, current, lcount+1, rcount);
-                current.pop_back();
-                dfs(s, index+1, current, lcount, rcount);
-            }
-            else if(curr_char == ')') {
-                dfs(s, index+1, current, lcount, rcount);
-                if (lcount > rcount) {
-                    current += curr_char;
-                    dfs(s, index+1, current, lcount, rcount+1);
-                    current.pop_back();
-                }
-            }
-            else {
-                current += curr_char;
-                dfs(s, index+1, current, lcount, rcount);
-                current.pop_back();
-            }
+
+        // Remove current '('
+        if(s[index] == '(' && leftRemove > 0) {
+
+            dfs(s, index + 1,
+                leftRemove - 1, rightRemove,
+                leftCount, rightCount,
+                current, ans);
+        }
+
+        // Remove current ')'
+        if(s[index] == ')' && rightRemove > 0) {
+
+            dfs(s, index + 1,
+                leftRemove, rightRemove - 1,
+                leftCount, rightCount,
+                current, ans);
+        }
+
+        // Keep current character
+        if(s[index] != '(' && s[index] != ')') {
+
+            current.push_back(s[index]);
+
+            dfs(s, index + 1,
+                leftRemove, rightRemove,
+                leftCount, rightCount,
+                current, ans);
+
+            current.pop_back();
+        }
+
+        // Keep '('
+        else if(s[index] == '(') {
+
+            current.push_back('(');
+
+            dfs(s, index + 1,
+                leftRemove, rightRemove,
+                leftCount + 1, rightCount,
+                current, ans);
+
+            current.pop_back();
+        }
+
+        // Keep ')' only if valid
+        else if(s[index] == ')' && leftCount > rightCount) {
+
+            current.push_back(')');
+
+            dfs(s, index + 1,
+                leftRemove, rightRemove,
+                leftCount, rightCount + 1,
+                current, ans);
+
+            current.pop_back();
         }
     }
 
     vector<string> removeInvalidParentheses(string s) {
-        st.clear();
+
+        int leftRemove = 0;
+        int rightRemove = 0;
+
+        // Calculate minimum removals
+        for(int i = 0; i < s.length(); i++) {
+
+            if(s[i] == '(') {
+                leftRemove++;
+            }
+            else if(s[i] == ')') {
+
+                if(leftRemove > 0) {
+                    leftRemove--;
+                }
+                else {
+                    rightRemove++;
+                }
+            }
+        }
+
+        vector<string> ans;
         string current = "";
-        longest_string = -1;
-        dfs(s, 0, current, 0, 0);
-        return vector<string>(st.begin(), st.end());
+
+        dfs(s, 0,
+            leftRemove, rightRemove,
+            0, 0,
+            current, ans);
+
+        sort(ans.begin(), ans.end());
+        ans.erase(unique(ans.begin(), ans.end()), ans.end());
+
+        return ans;
     }
 };
