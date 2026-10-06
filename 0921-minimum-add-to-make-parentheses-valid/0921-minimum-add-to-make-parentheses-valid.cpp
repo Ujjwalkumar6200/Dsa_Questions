@@ -2,15 +2,16 @@ class Solution {
 public:
     int minAddToMakeValid(string s) {
         int n = s.length();
-        stack<int>st;
+        int left = 0;
+        int right = 0;
         int ans =0;
         for(int i =0;i<n;i++){
-            if(s[i]=='(') st.push(s[i]);
+            if(s[i]=='(') left++;
             else if(s[i]==')'){
-                if(st.size()>0) st.pop();
-                else ans++;
+                if(left>0) left--;
+                else right++;
             }
-        } ans+=st.size();
+        } ans+= abs(left+right);
         return ans;
     }
 };
