@@ -1,24 +1,36 @@
 class Solution {
 public:
-    int minNumberOfFrogs(string croakOfFrogs) {
-        int n = croakOfFrogs.size();
-        if (n % 5 != 0) return -1;
-        
-        int frogs = 0, ans = 0;
-        unordered_map<char, int> mp;
-        
-        for (char ch : croakOfFrogs) {
-            if (ch == 'c') frogs++, mp['c']++;
-            else if (ch == 'r' && mp['c'] > mp['r']) mp['r']++;
-            else if (ch == 'o' && mp['r'] > mp['o']) mp['o']++;
-            else if (ch == 'a' && mp['o'] > mp['a']) mp['a']++;
-            else if (ch == 'k' && mp['a'] > mp['k']){
-                ans = max(ans, frogs);
-                frogs--;
-                mp['k']++;
-            }
+    int minNumberOfFrogs(string s) {
+        if (s.size() % 5 != 0) return -1;
+
+        int cnt[5] = {};
+        int active = 0;
+        int ans = 0;
+
+        for (char ch : s) {
+            int idx;
+
+            if (ch == 'c') idx = 0;
+            else if (ch == 'r') idx = 1;
+            else if (ch == 'o') idx = 2;
+            else if (ch == 'a') idx = 3;
+            else if (ch == 'k') idx = 4;
             else return -1;
+
+            if (idx > 0 && cnt[idx - 1] <= cnt[idx])
+                return -1;
+
+            cnt[idx]++;
+
+            if (ch == 'c') {
+                active++;
+                ans = max(ans, active);
+            } 
+            else if (ch == 'k') {
+                active--;
+            }
         }
-        return frogs==0 ? ans : -1;
+
+        return active == 0 ? ans : -1;
     }
 };
