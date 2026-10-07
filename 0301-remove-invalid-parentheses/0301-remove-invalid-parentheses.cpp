@@ -4,7 +4,7 @@ public:
     void dfs(string &s, int index,
              int leftRemove, int rightRemove,
              int leftCount, int rightCount,
-             string &current, vector<string> &ans) {
+             string& current, vector<string> &ans) {
 
         if(index == s.length()) {
 
