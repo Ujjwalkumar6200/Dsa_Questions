@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0835-image-overlap](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0835-image-overlap) |
 | [0846-hand-of-straights](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0846-hand-of-straights) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0875-koko-eating-bananas](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0904-fruit-into-baskets) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0994-rotting-oranges](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0835-image-overlap) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0994-rotting-oranges](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -605,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0996-number-of-squareful-arrays](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0996-number-of-squareful-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1386-cinema-seat-allocation) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
