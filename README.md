@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3895-count-digit-appearances](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3904-smallest-stable-index-ii) |
+| [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
 ## Binary Search
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3620-network-recovery-pathways) |
+| [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-check-if-grid-satisfies-conditions](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
 ## Graph Theory
 |  |
 | ------- |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3620-network-recovery-pathways) |
+| [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
 ## Topological Sort
 |  |
 | ------- |
