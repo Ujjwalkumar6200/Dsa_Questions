@@ -454,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0472-concatenated-words) |
 | [0678-valid-parenthesis-string](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0856-score-of-parentheses) |
+| [0880-decoded-string-at-index](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0880-decoded-string-at-index) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1021-remove-outermost-parentheses) |
@@ -641,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0856-score-of-parentheses) |
+| [0880-decoded-string-at-index](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0880-decoded-string-at-index) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
