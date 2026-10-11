@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2750-ways-to-split-array-into-good-subarrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -719,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
