@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1710-maximum-units-on-a-truck](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1710-maximum-units-on-a-truck) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1020-number-of-enclaves) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2685-count-the-number-of-complete-components) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1510-stone-game-iv) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1927-sum-game) |
@@ -414,10 +418,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0140-word-break-ii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -651,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0169-majority-element) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Stack
 |  |
 | ------- |
@@ -703,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1145-binary-tree-coloring-game](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1145-binary-tree-coloring-game) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -733,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1145-binary-tree-coloring-game](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1145-binary-tree-coloring-game) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Enumeration
@@ -763,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Design
 |  |
 | ------- |
@@ -904,4 +914,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
