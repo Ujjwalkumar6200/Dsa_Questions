@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1710-maximum-units-on-a-truck](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1710-maximum-units-on-a-truck) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
