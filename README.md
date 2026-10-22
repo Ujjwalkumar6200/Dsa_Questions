@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3895-count-digit-appearances](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3904-smallest-stable-index-ii) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
 ## Binary Search
 |  |
