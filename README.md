@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1882-process-tasks-using-servers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1631-path-with-minimum-effort) |
+| [1882-process-tasks-using-servers](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
