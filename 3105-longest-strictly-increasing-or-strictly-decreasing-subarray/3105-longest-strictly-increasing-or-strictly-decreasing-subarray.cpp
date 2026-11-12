@@ -4,23 +4,22 @@ public:
         int length = nums.size();
         int inc = 1;
         int dnc = 1;
-        int incmax =1;
-        int dncmax = 1;
+        int maxi =1;
         for(int i =1;i<nums.size();i++){
             if(nums[i]>nums[i-1]){
                 inc++;
-                incmax = max(inc,incmax);
+                dnc = 1;
             }
-            else inc = 1;
-        }
-
-            for(int i = length-2;i>=0;i--){
-                if(nums[i] > nums[i+1]){
+            else if(nums[i] < nums[i-1]){
                     dnc++;
-                dncmax = max(dnc,dncmax);
+                    inc = 1;
             }
-            else dnc = 1;
-            } 
-         return max(incmax,dncmax);
+            else {
+                inc = 1;
+                dnc = 1;
+            }
+             maxi = max(maxi, max(inc, dnc));
+         } return maxi;
+
     }
 };
