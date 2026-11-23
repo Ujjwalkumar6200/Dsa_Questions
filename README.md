@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0200-number-of-islands) |
+| [0300-longest-increasing-subsequence](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0322-coin-change) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0222-count-complete-tree-nodes) |
+| [0300-longest-increasing-subsequence](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0875-koko-eating-bananas](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0322-coin-change) |
@@ -1028,4 +1031,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Ujjwalkumar6200/Dsa_Questions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
