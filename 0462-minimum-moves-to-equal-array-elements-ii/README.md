@@ -5,7 +5,7 @@
 <p>Test cases are designed so that the answer will fit in a <strong>32-bit</strong> integer.</p>
 
 <p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+<p><strong class="example">EXAMPLE 1:</strong></p>
 
 <pre>
 <strong>Input:</strong> nums = [1,2,3]
